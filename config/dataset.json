@@ -1,0 +1,30 @@
+{
+    "lagos": {
+        "apapa": [
+            {
+                "office": "office-1",
+                "phone": "phone-1",
+                "email": "email-1"
+            },
+            {
+                "office": "office-2",
+                "phone": "phone-2",
+                "email": "email-2"
+            }
+        ]
+    },
+    "ibadan": {
+        "oluyole": [
+            {
+                "office": "office-1",
+                "phone": "phone-1",
+                "email": "email-1"
+            },
+            {
+                "office": "office-2",
+                "phone": "phone-2",
+                "email": "email-2"
+            }
+        ]
+    }
+}
